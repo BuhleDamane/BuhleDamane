@@ -1,28 +1,89 @@
-# 👋 Welcome!
+# Hi, I'm Buhle Damane 👋
 
-Hi, I’m **Buhle Damane** — a passionate and self-taught developer from **Johannesburg, South Africa** 🇿🇦.
+I'm from Johannesburg, South Africa — lawyer, developer, and data analyst, usually all at once.
 
-I started my coding journey in **2020**, learning HTML, CSS, and basic JavaScript through YouTube tutorials. In **2023**, I joined the **SheCodes coding bootcamp**, where I gained deeper knowledge in:
+My path here is not the typical one. I studied law at the University of Venda, started coding through SheCodes in 2023, and completed a Data Analytics programme with ALX in 2024 to 2025. I'm currently working towards my LLM in Human Rights Law at UNISA. I know that sounds like a lot, and it is — but each piece feeds into the others in ways I genuinely didn't expect when I started.
 
-- 🧠 JavaScript
-- ⚛️ React.js
-- 🌐 HTML & CSS
-- 🌱 Node.js
-
-Currently, I’m expanding my skills to include **C#** and **Java**, so don’t be surprised if you come across projects written in those languages — I’m actively learning and experimenting with them!
-
-In **2024**, I completed a **Data Analytics course with ALX**, where I was trained to analyze diverse types of data. Through that, I gained proficiency in:
-
-- 🐍 Python
-- 🧮 SQL
-- 📊 Excel
-- 📈 Tableau
-- 📌 Power BI
+The thing about web development that keeps me going is that you're solving real problems for real people. When I built the Academic Excellence Hub, I was thinking about postgraduate students doing distance learning with almost no institutional support. When I built the debugging app, I was thinking about how I learned to code and what would have helped me. That's what I like about building — you're not just writing code, you're making something people actually use.
 
 ---
 
-### 🧩 What to Expect
+## What I Do
 
-Most of my projects are **private** at the moment, as I’ve chosen to build my portfolio intentionally and at my own pace. However, feel free to check back soon for more updates as I continue to grow and share selected highlights.
+**Web Development** — JavaScript (ES6+), React, HTML5, CSS3, Firebase (Auth, Firestore, Storage), responsive design, real-time data. I've built full-stack apps that include authentication portals, admin dashboards, real-time chat, and AI integration.
 
-Thanks for visiting my GitHub! 🌟
+**Data Analytics** — SQL (MySQL), Python, Power BI, Tableau, Excel. I've worked through datasets ranging from 11 years of Indonesian climate observations to 120,000+ Amazon India e-commerce orders, building full pipelines from raw, messy data to clear findings.
+
+**Legal Research & Writing** — LLB from UNIVEN, LLM in Human Rights Law in progress at UNISA. My research focuses on socio-economic rights, gender-based violence, digital privacy, and the intersection of AI with human rights law in the South African context.
+
+---
+
+## Projects
+
+### Web Development
+
+**[Personal Blog Platform](https://github.com/BuhleDamane/buhledamanemyblogwebsite)** — [Live](https://glowing-kataifi-71d2c5.netlify.app/)
+When I was 13, I wanted to be a writer. I sent my work to publishers for years and heard nothing back. When I learned to code, I realised I didn't need permission anymore — I could build the platform myself. Dual authentication, article management, likes, 5-star ratings, newsletter, admin dashboard, PDF uploads.
+*Stack: JavaScript, HTML5, CSS3, Firebase*
+
+**[Academic Excellence Hub](https://github.com/BuhleDamane/academicexcellence)** — [Live](https://dynamic-eclair-0ae219.netlify.app/)
+Postgraduate students doing distance learning are largely left to figure things out alone. I built this platform specifically for them — real-time chat, project tracking, document management, payment processing, interactive calendar, admin dashboard.
+*Stack: JavaScript ES6, Firebase*
+
+**[Debug Master — Code Debugging Learning App](https://github.com/BuhleDamane/debugging-learning-app)** — [Live](https://whimsical-pastelito-4f7960.netlify.app/)
+We use AI for everything now, and I noticed we've stopped testing ourselves. This app generates debugging challenges using AI so you can find out what you actually know versus what you've been outsourcing. Three difficulty levels, split-screen editor, instant validation, hint system, progress tracking.
+*Stack: React, Firebase, AI Integration*
+
+**[Financial Literacy & Portfolio Tracker](https://github.com/BuhleDamane/financial-tracker-app-website)** — [Live](https://gregarious-sopapillas-88dcb9.netlify.app/)
+Budget in one app, investments in another, tax somewhere else — I wanted everything in one place. Financial education modules, income and expense tracking, savings goals, investment portfolio tracking, budget planner, tax calculator, data visualisation.
+*Stack: React, Firebase*
+
+---
+
+### Data Analytics
+
+**Gender Inequality Index — 194 Countries, 1990 to 2021**
+31 years of data. The clearest finding: gender inequality, poverty, and low literacy move together as a system, not as separate problems. On the hopeful side, global average inequality dropped 34% over three decades.
+
+**Violence Against Women — Attitudes Across 70 Countries, 2000 to 2017**
+The finding that stayed with me: in nearly 89% of the surveyed countries, women justify violence against themselves at a higher rate than men do. Education came through as the strongest protective factor — though in a handful of countries it had the opposite effect, which says something about what those education systems are actually teaching.
+
+**Amazon India Sales — 120,000+ Orders**
+16 SQL queries across five business questions. A 14.21% cancellation rate concentrated in the highest-revenue states and most valuable products — a measurable revenue leak sitting right at the heart of operations. B2B customers placed fewer orders than B2C but spent 15% more per order and cancelled far less.
+
+**Indonesia Climate Data — 11 Years, 173 Stations**
+The most technically demanding project in the portfolio. I built the full pipeline: Python to clean 588,666 daily observations (370,719 missing values and 599 physically impossible readings, including temperatures above 200°C), MySQL for analytical queries, Tableau for visualisation. Headline finding: a confirmed +0.24°C warming trend across Indonesia from 2010 to 2020.
+
+---
+
+### Legal Writing
+
+Four published articles examining contemporary human rights issues through South African and international law — covering gender-based violence and protection orders, digital privacy rights, socio-economic rights enforcement, and AI regulation. You can read them at my [Legal Writing Portfolio](https://strong-marigold-ded066.netlify.app).
+
+---
+
+## Education
+
+| Institution | Qualification | Status |
+|---|---|---|
+| University of Venda | LLB (Bachelor of Laws) | Completed |
+| University of South Africa (UNISA) | LLM Human Rights Law | In Progress |
+| ALX | Data Analytics Programme | 2024 to 2025 |
+| SheCodes | Coding Bootcamp | 2023 to Present |
+
+---
+
+## Open to Work
+
+I'm looking for roles in web development, frontend or full-stack, data analysis, or business analysis — and I'm especially interested in work that connects my technical and legal backgrounds. Based in South Africa, open to remote, part-time, contract, or full-time.
+
+---
+
+## Get in Touch
+
+| | |
+|---|---|
+| Email | [ziziphodamane@gmail.com](mailto:ziziphodamane@gmail.com) |
+| LinkedIn | [Buhle Damane](https://www.linkedin.com/in/buhle-damane) |
+| GitHub | [github.com/BuhleDamane](https://github.com/BuhleDamane) |
+| Portfolio | [strong-marigold-ded066.netlify.app](https://strong-marigold-ded066.netlify.app) |
